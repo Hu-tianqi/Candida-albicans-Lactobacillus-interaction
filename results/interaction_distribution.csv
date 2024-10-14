@@ -1,0 +1,10 @@
+,count,category,Media
+0,99,Parasitism [-/+],dmem3 diet
+1,36,Commensalism [o/+],dmem3 diet
+2,0,Amensalism [o/-],dmem3 diet
+3,0,Neutralism [o/o],dmem3 diet
+4,7,Parasitism [+/-],dmem3 diet
+5,2,Commensalism [+/o],dmem3 diet
+6,15,Mutualism [+/+],dmem3 diet
+7,0,Amensalism [-/o],dmem3 diet
+8,0,Competition [-/-],dmem3 diet
